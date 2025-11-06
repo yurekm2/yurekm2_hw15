@@ -54,7 +54,7 @@ h2 {
     width: 75px;
     min-width: 200px;
   }
-  text {
+  .text {
     column-count: 1;
   }
 }
