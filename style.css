@@ -12,7 +12,9 @@ html {
 }
 
 body {
-  width: 1300px;
+  /*width: 1300px;*/
+  width: 800px;
+  min-width: 1000px;
   margin: 48px auto;
 }
 
