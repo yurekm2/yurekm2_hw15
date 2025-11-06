@@ -50,4 +50,11 @@ h2 {
     background-color: #dddddd;
     text-align: center;
   }
+  body {
+    width: 75px;
+    min-width: 200px;
+  }
+  text {
+    column-count: 1;
+  }
 }
